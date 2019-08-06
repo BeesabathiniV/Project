@@ -1,0 +1,7 @@
+git checkout 'another_branch'
+Or
+
+git checkout origin 'another_branch'
+Or
+
+git checkout origin/'another_branch
